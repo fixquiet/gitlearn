@@ -1,2 +1,1 @@
-String getUserName(String id);
-String getSessionId(String id);
+String GetUserName(String id);
