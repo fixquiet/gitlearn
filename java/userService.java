@@ -1,3 +1,4 @@
 String GetUserName(String id);
-String GetUserInfo(String name);
-String GetUserAvator(String name);
+String GetUserInfo(String id);
+String UpdateUserAvator(String name);
+String UpdateUserInfo(String id);
